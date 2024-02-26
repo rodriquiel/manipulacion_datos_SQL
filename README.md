@@ -8,7 +8,7 @@
 ### #Modelaje de una base de datos relacional
 ### #Creacion tablas y relaciones entre ellas con FKs
 ### #Utilizar diversos métodos de importación para alimentar la base de datos
-### #Usar COMMIT y ROLLBACK para garantizar la integridad de tus datos
+### #Usar COMMIT y ROLLBACK para garantizar la integridad de los datos
 ### #Trabajar con TRIGGERs 
 ### #Definir secuencias
 
